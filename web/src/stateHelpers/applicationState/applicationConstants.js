@@ -1,7 +1,7 @@
 export const requestTypes = {
-    put: "PUT"
+  put: 'PUT',
 };
 
 export const defaultState = {
-    requestType: requestTypes.put
+  requestType: requestTypes.put,
 };

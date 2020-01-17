@@ -1,5 +1,3 @@
 import React from 'react';
 
-export default function RequestOptions() {
-
-}
+export default function RequestOptions() {}
