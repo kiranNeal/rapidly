@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component tests Header renders 1`] = `
+<DocumentFragment>
+  <header
+    class="header__container"
+  >
+    <img
+      alt="rapidly"
+      class="header__icon"
+      src="rapidlyIcon.png"
+    />
+    <div
+      class="header__title"
+    >
+      RAPIDLY
+    </div>
+  </header>
+</DocumentFragment>
+`;

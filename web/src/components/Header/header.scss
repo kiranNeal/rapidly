@@ -1,0 +1,28 @@
+@import "../../constants/styleVariables.scss";
+
+.header__container {
+    width: 100%;
+    font-size: 18px;
+    background-color: $darkGrey;
+    color: $white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+    padding: 0.4rem 0;
+    z-index: 666;
+    justify-content: flex-start;
+}
+
+.header__icon {
+    height: 30px;
+    margin-left: 10px;
+}
+
+.header__title {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+    margin-left: 1%;
+}
