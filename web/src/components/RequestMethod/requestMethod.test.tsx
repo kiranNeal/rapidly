@@ -13,7 +13,6 @@ import { AppContext } from '../../App';
 import reducer, {
   initialState
 } from '../../states/application/applicationReducer';
-import * as applicationActions from '../../states/application/applicationActions';
 
 interface WrapperProps {
   children: React.ReactNode;
