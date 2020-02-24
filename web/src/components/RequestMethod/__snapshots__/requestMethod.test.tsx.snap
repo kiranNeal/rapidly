@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Request Method component tests Request method renders correctly with no initial Method prop passes 1`] = `
+<DocumentFragment>
+  <div
+    class="bx--dropdown__wrapper bx--list-box__wrapper"
+  >
+    <div
+      aria-label="Select Request Method"
+      class="bx--dropdown bx--list-box"
+      id="request_method__dropdown"
+      role="listbox"
+      tabindex="-1"
+    >
+      <div
+        aria-disabled="false"
+        aria-expanded="false"
+        aria-haspopup="true"
+        aria-label="Open menu"
+        class="bx--list-box__field"
+        data-toggle="true"
+        role="button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="bx--list-box__label"
+          for="downshift-0-input"
+        >
+          GET
+        </span>
+        <div
+          class="bx--list-box__menu-icon"
+        >
+          <svg
+            aria-label="Open menu"
+            focusable="false"
+            height="16"
+            name="chevron--down"
+            preserveAspectRatio="xMidYMid meet"
+            role="img"
+            style="will-change: transform;"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M8 11L3 6 3.7 5.3 8 9.6 12.3 5.3 13 6z"
+            />
+            <title>
+              Open menu
+            </title>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header component tests Header renders 1`] = `
+exports[`Header component tests Header renders as expected 1`] = `
 <DocumentFragment>
   <header
     class="header__container"

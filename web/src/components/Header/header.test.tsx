@@ -11,7 +11,7 @@ describe('Header component tests', () => {
   });
 
   it('Header renders Title correctly', () => {
-    const { getByText } = render(<Header />);
+    const { getByText, debug } = render(<Header />);
     const linkElement = getByText('RAPIDLY');
     expect(linkElement).toBeInTheDocument();
   });
